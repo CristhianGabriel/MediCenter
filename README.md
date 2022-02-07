@@ -1,2 +1,2 @@
 # MediCenter
-Site desenvolvido inicialmente com html e css 
+Website desenvolvido inicialmente com html e css 
